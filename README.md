@@ -36,3 +36,7 @@ python predict.py --batch_size 32 --device 0 --test_dir ./data/test --load
 ## QuickStart
 
 Run the demo.ipynb to start this project quickly.
+
+## Ref
+Chen, J., Hu, J., Xue, C. et al. Combined Mutual Learning Net for Raman Spectral Microbial Strain Identification. *Anal. Chem.* 96, 15 (2024). [https://doi.org/10.1021/acs.analchem.3c05107](https://doi.org/10.1021/acs.analchem.3c05107)
+
