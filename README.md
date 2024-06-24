@@ -151,7 +151,7 @@ args.schduler_ConvNext_V2 = torch.optim.lr_scheduler.StepLR(args.optimizer_ConvN
 
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp; 下面是损失函数的定义：
+&nbsp;&nbsp;&nbsp;&nbsp; The following is the definition of the loss function:：
 ```python
 class DistillationLoss: 
     def __init__(self, alpha): 
